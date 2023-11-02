@@ -32,5 +32,5 @@ Subscribe☑️ to the channel and select the Series you want to watch📲
     ABOUT = """
 Hello , Thanks for using me :D
 
-♥️ Developed by Unkown entity (≧▽≦)
+♥️ Developed by @Anime_Alliance (≧▽≦)
 """
