@@ -8,7 +8,7 @@ class Data:
     HELP = """
 
 <b>Press "Start"</b>
-Subscribe☑️ to the channel and select the Series you want to watch📲
+Subscribe☑️ to the channel and select the Series/Episode you want to watch📲
 """
 
     close = [
