@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "👋 Hello {username}!\nPlease Join our channel First [ ᴛᴀᴘ ᴏɴ ᴊᴏɪɴ ⚡️ ] then\n Download by tapping on ⚡️Try Again  \nThank You ❤️",
+    "👋 Hello {username}!\nPlease Join our channel First [ ᴛᴀᴘ ᴏɴ ᴊᴏɪɴ ⚡️] then\n Download by tapping on ⚡️Try Again \nThank You ❤️",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
